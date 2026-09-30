@@ -1,0 +1,19 @@
+# Python 3.13 (tested on 3.13.1)
+
+# Direct dependencies (imported in the project code)
+beautifulsoup4==4.13.4
+pandas==2.3.1
+requests==2.32.4
+
+# Sub-dependencies (installed automatically by the packages above)
+certifi==2026.7.22
+charset-normalizer==3.5.2
+idna==3.20
+numpy==2.5.3
+python-dateutil==2.9.0.post0
+pytz==2026.4
+six==1.17.0
+soupsieve==2.10
+typing_extensions==4.16.0
+tzdata==2026.4
+urllib3==2.8.0
